@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+}
+h4{
+    font-style: italic;
+    text-align: right;
+} 
+
+    .merah{
+        color: black;
+        text-align:right;
+    }
+a{
+    color: white;
+}
+.L{
+    color: salmon;
+}
